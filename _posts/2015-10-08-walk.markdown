@@ -1,0 +1,6 @@
+---
+layout: post
+title:  "Walk"
+date:   2015-10-08 15:39:40
+preview: https://edenyoon.github.io/img/list_thumbnail_walk.png
+---

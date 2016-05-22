@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "bOm"
+date:   2015-10-06 15:39:40
+preview: https://edenyoon.github.io/img/list_thumbnail_bom.png
+---
+
+![InsideBlack]({{ site.url }}/img/bom/bom_01_insideblack.jpg)
+![Bear]({{ site.url }}/img/bom/bom_02_bear.jpg)
+![Ferret]({{ site.url }}/img/bom/bom_03_ferret.jpg)
+![Sankes]({{ site.url }}/img/bom/bom_04_snakes.jpg)
+![Squirrel]({{ site.url }}/img/bom/bom_05_squirrel.jpg)
+![Deer]({{ site.url }}/img/bom/bom_06_deer.jpg)
+![Murre]({{ site.url }}/img/bom/bom_07_murre.jpg)
+![Butterfly]({{ site.url }}/img/bom/bom_08_butterfly.jpg)
