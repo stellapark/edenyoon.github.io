@@ -2,6 +2,7 @@
  * Site header
  */
 .site-header {
+    margin-top: 10px;
     position: relative;
     text-align: center;
 }
@@ -171,7 +172,7 @@
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
     border: 1px solid $background-color;
-    
+
     &:hover {
         border: 1px solid $grey-color-light;
     }
