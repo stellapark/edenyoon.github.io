@@ -2,7 +2,7 @@
 layout: post
 title:  "SuperPictoHero"
 date:   2015-10-11 15:39:40
-preview: https://edenyoon.github.io/img/list_thumbnail_superpictohero.png
+preview: https://stellapark.github.io/img/superpictohero/list_thumbnail_superpictohero.png
 ---
 
 ![]({{ site.url }}/img/superpictohero/01.jpg)
