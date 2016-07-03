@@ -39,7 +39,7 @@
 }
 
 .footer-col-wrapper {
-    font-size: 15px;
+    font-size: 14px;
     color: $grey-color;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
@@ -99,6 +99,7 @@
 .page-content {
     margin-top: -10px;
     padding: $spacing-unit 0;
+    font-size: 14px;
 }
 
 .page-heading {
@@ -124,6 +125,9 @@
     font-size: 24px;
 }
 
+.preview-title {
+    align: right;
+}
 
 /**
  * Posts
