@@ -13,6 +13,9 @@
     float: none;
 }
 
+.navbar .active a {
+    color: $active-text-button-color;
+}
 
 /**
  * Site footer
