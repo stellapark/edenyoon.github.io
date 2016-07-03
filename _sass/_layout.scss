@@ -45,6 +45,10 @@
     @extend %clearfix;
 }
 
+.footer-col-wrapper .name {
+    font-size: 22px;
+}
+
 .footer-col {
     float: left;
     margin-bottom: $spacing-unit / 2;
