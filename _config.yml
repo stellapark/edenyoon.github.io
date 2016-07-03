@@ -9,7 +9,8 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://edenyoon.github.io" # the base hostname & protocol for your site
 facebook_username: mihwa.park.311
 pinterest_username: pmhwa77
-hehance_username: pmhwa77
+behance_username: mihwa
+instagram_username: pmhwa77
 
 # Build settings
 markdown: kramdown
