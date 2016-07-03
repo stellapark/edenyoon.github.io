@@ -2,14 +2,30 @@
 layout: post
 title:  "bOm"
 date:   2015-10-12 15:39:40
-preview: https://edenyoon.github.io/img/list_thumbnail_bom.png
+previewl: https://edenyoon.github.io/img/list_thumbnail_bom.png
 ---
+![cover]({{ site.url }}/img/bom/bom_00_all.jpg)
 
 ![InsideBlack]({{ site.url }}/img/bom/bom_01_insideblack.jpg)
+
 ![Bear]({{ site.url }}/img/bom/bom_02_bear.jpg)
+
 ![Ferret]({{ site.url }}/img/bom/bom_03_ferret.jpg)
+
 ![Sankes]({{ site.url }}/img/bom/bom_04_snakes.jpg)
+
 ![Squirrel]({{ site.url }}/img/bom/bom_05_squirrel.jpg)
+
 ![Deer]({{ site.url }}/img/bom/bom_06_deer.jpg)
-![Murre]({{ site.url }}/img/bom/bom_07_murre.jpg)
+
 ![Butterfly]({{ site.url }}/img/bom/bom_08_butterfly.jpg)
+
+![Frog]({{ site.url }}/img/bom/bom_09_frog.jpg)
+
+![Fox]({{ site.url }}/img/bom/bom_10_fox.jpg)
+
+![Murre]({{ site.url }}/img/bom/bom_07_murre.jpg)
+
+![Crash]({{ site.url }}/img/bom/bom_11_crash.jpg)
+
+![Explode]({{ site.url }}/img/bom/bom_12_explode.jpg)
