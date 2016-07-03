@@ -2,7 +2,7 @@
 layout: post
 title:  "bOm"
 date:   2015-10-12 15:39:40
-preview: https://stellapark.github.io/img/list_thumbnail_bom.png
+preview: https://stellapark.github.io/img/bom/list_thumbnail_bom.png
 ---
 ![cover]({{ site.url }}/img/bom/bom_00_all.jpg)
 
