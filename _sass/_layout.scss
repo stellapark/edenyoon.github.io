@@ -134,6 +134,10 @@
     margin-top: 7px;
 }
 
+.page-content .post-desc {
+    text-align: center;
+}
+
 /**
  * Posts
  */
@@ -199,4 +203,10 @@
     &:hover {
         border: 1px solid $grey-color-light;
     }
+}
+
+.center-image
+{
+    margin: 0 auto;
+    display: block;
 }
