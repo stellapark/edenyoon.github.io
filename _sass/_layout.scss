@@ -8,6 +8,7 @@
 }
 
 .navbar .navbar-nav {
+    margin-top: 50px;
     display: inline-block;
     float: none;
 }
@@ -93,6 +94,7 @@
  * Page content
  */
 .page-content {
+    margin-top: -10px;
     padding: $spacing-unit 0;
 }
 
