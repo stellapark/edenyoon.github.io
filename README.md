@@ -1,5 +1,1 @@
-# urban-theme
-
-A jekyll theme for visual artists
-
-Live-Demo: http://narkotyk.net/
+Welcome to Stella Park's artwork!
