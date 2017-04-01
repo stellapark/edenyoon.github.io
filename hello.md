@@ -5,7 +5,7 @@ permalink: /hello/
 ---
 ![studiophoto]({{ site.url }}/img/hello/hello_studio.jpg)
 
-<b>Hello!</b>
+<b>Hello!</b><br>
 I was born in South Korea.<br>
 After attending the Sookmyung women's Univ. of Art and Design.<br>
 I live in Seoul wiht my family.<br><br>
