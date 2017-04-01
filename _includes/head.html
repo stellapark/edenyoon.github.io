@@ -18,4 +18,10 @@
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
 
     <link href='http://fonts.googleapis.com/css?family=Indie+Flower'>
+    {% if site.posts.first.googlewebfonts %}
+        <link href='http://fonts.googleapis.com/css?family={{ site.posts.first.googlewebfonts }}'>
+    {% elsif page.googlewebfonts %}
+        <link href='http://fonts.googleapis.com/css?family={{ page.googlewebfonts }}'>
+    {% endif %}
+
 </head>
