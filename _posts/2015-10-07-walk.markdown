@@ -2,5 +2,6 @@
 layout: post
 title:  "Walk"
 date:   2015-10-07 15:39:40
-preview: https://edenyoon.github.io/img/list_thumbnail_walk.png
+preview: https://edenyoon.github.io/img/walk/list_thumbnail_walk.png
 ---
+![cover]({{ site.url }}/img/walk/walk.jpg)
