@@ -3,7 +3,13 @@ layout: post
 title:  "bOm"
 date:   2015-10-12 15:39:40
 preview: https://stellapark.github.io/img/bom/list_thumbnail_bom.png
+googlewebfonts: Roboto
 ---
+
+Roboto
+Roboto
+가나다라마바상나란어리
+
 ![cover]({{ site.url }}/img/bom/bom_00_all.jpg)
 
 ![InsideBlack]({{ site.url }}/img/bom/bom_01_insideblack.jpg)
